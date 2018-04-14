@@ -19,6 +19,23 @@ fontWeight 400
 text Mortgage Application
 
 
+TopNav Horizontal
+alignItems center
+backgroundColor #fcbe99
+height 60
+paddingLeft 10
+paddingRight 10
+paddingBottom 10
+paddingTop 10
+onClick <
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Car loan Application
+
+
 Vertical
 flexBasis auto
 flexGrow 1
