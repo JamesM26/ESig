@@ -6,11 +6,15 @@ import App from './App.view.js'
 
 export default class AppLogic extends React.Component {
   state = {
-    isReady: false,
+    _isReady: false,
+    isLoanDetails: false,
+    isTermsAndConditions: true,
   }
 
   render() {
-    if (!this.state.isReady) {
+    const { _isReady, ...state } = this.state
+
+    if (!_isReady) {
       return (
         <AppLoading
           startAsync={this._cacheResourcesAsync}
@@ -20,7 +24,7 @@ export default class AppLogic extends React.Component {
       );
     }
 
-    return <App {...this.props} />
+    return <App {...this.props} {...state} />
   }
 
   _cacheResourcesAsync() {
