@@ -96,4 +96,4 @@ text Accept
 when <isLoanDetails
 text Submit application
 when <isApplicationSubmitted
-text Next
+text Cancel
