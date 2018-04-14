@@ -78,4 +78,4 @@ fontSize 18
 fontWeight 400
 text Next
 when <isTermsAndConditions
-text Next
+text Accept
