@@ -147,3 +147,5 @@ when <isLoanDetails
 text Submit application
 when <isApplicationSubmitted
 text Cancel
+when <isResultAvailable
+text Next
