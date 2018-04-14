@@ -50,7 +50,7 @@ flexGrow 1
 flexShrink 1
 justifyContent center
 Datafield
-text Total amount of borrowing
+text < Total amount of borrowing
 
 
 Submit Horizontal
