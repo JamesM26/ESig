@@ -10,7 +10,7 @@ fontFamily Montserrat
 fontSize 36
 fontWeight 400
 text Applications
-marginTop 25
+marginTop 50
 
 TopNav Horizontal
 alignItems center
