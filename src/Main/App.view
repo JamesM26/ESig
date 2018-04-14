@@ -43,7 +43,7 @@ fontWeight 400
 text Please
 
 
-Horizontal
+Vertical
 alignItems center
 flexBasis auto
 flexGrow 1
