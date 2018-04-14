@@ -82,6 +82,8 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Declined
+when <isAccepted
+text Declined
 
 
 Vertical
