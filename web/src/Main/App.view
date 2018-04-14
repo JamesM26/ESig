@@ -21,7 +21,7 @@ paddingRight 10
 paddingBottom 10
 paddingTop 10
 onClick <
-marginTop 10
+marginTop 25
 Text
 color #323232
 fontFamily Montserrat
