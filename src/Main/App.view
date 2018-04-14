@@ -48,7 +48,7 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
-onWhen <isCondition
+onWhen <isLoanDetails
 Text
 color #323232
 fontFamily Montserrat
