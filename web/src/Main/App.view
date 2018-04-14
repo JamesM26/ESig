@@ -106,7 +106,6 @@ text < Total Borrowing Amount
 
 
 Vertical
-flexBasis auto
 flexGrow 1
 flexShrink 1
 Submit Horizontal
