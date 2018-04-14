@@ -148,4 +148,4 @@ text Submit application
 when <isApplicationSubmitted
 text Cancel
 when <isResultAvailable
-text Next
+text Accept
