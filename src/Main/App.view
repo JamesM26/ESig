@@ -42,13 +42,6 @@ fontSize 18
 fontWeight 400
 text Text
 
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Label
-
 
 Vertical
 alignItems center
@@ -56,6 +49,13 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Label
+
 
 BotNav Horizontal
 alignItems center
