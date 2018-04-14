@@ -105,6 +105,12 @@ Datafield
 text < Total Borrowing Amount
 
 
+Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
 Submit Horizontal
 alignItems center
 backgroundColor #fcbe99
