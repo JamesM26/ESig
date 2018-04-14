@@ -52,9 +52,6 @@ justifyContent center
 Datafield
 text Total amount of borrowing
 
-Datafield
-text Label
-
 
 Submit Horizontal
 alignItems center
