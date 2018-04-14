@@ -65,7 +65,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-placeholder Inser text
+placeholder Insert text
 onChange <
 value <
 
