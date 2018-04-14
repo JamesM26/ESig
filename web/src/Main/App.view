@@ -107,7 +107,6 @@ text < Total Borrowing Amount
 
 Vertical
 flexGrow 1
-flexShrink 1
 Submit Horizontal
 alignItems center
 backgroundColor #fcbe99
