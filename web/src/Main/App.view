@@ -95,3 +95,5 @@ when <isTermsAndConditions
 text Accept
 when <isLoanDetails
 text Submit application
+when <isApplicationSubmitted
+text Next
