@@ -61,6 +61,19 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
+onWhen <isResult
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Pending approval...
+
+
+Vertical
+flexBasis auto
+flexGrow 1
+flexShrink 1
 onWhen <isLoanDetails
 Text
 color #323232
