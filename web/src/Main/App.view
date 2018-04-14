@@ -106,6 +106,7 @@ text < Total Borrowing Amount
 
 
 Horizontal
+onWhen <isCondition
 Submit Horizontal
 alignItems center
 backgroundColor #fcbe99
