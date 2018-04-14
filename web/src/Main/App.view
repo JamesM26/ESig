@@ -83,7 +83,7 @@ fontSize 18
 fontWeight 400
 text Declined
 when <isAccepted
-text Declined
+text Accepted
 
 
 Vertical
