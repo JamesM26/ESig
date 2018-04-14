@@ -20,6 +20,13 @@ fontWeight 400
 text Stuff Application
 
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Type something...
+
 TopNav Horizontal
 alignItems center
 backgroundColor #fcbe99
