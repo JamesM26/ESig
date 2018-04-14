@@ -4,7 +4,6 @@ flexGrow 1
 flexShrink 1
 Vertical
 alignItems center
-flexBasis auto
 justifyContent center
 TopNav Horizontal
 alignItems center
