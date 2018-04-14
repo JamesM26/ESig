@@ -124,8 +124,6 @@ fontWeight 400
 text Next
 when <isTermsAndConditions
 text Accept
-when <isLoanDetails
-text Submit application
 
 
 Submit Horizontal
