@@ -1,0 +1,84 @@
+App Vertical
+flexBasis auto
+flexGrow 1
+flexShrink 1
+TopNav Horizontal
+alignItems center
+backgroundColor #fcbe99
+height 60
+paddingLeft 10
+paddingRight 10
+paddingBottom 10
+paddingTop 10
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Mortgage Application
+
+
+Vertical
+flexBasis auto
+flexGrow 1
+flexShrink 1
+backgroundColor #FCEADE
+overflowY auto
+paddingLeft 10
+paddingRight 10
+paddingTop 10
+paddingBottom 10
+onWhen <isTermsAndConditions
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Terms & Conditions
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Please
+
+
+Vertical
+flexBasis auto
+flexGrow 1
+flexShrink 1
+onWhen <isLoanDetails
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Loan details
+
+Datafield
+text < Total Borrowing Amount
+
+Datafield
+text < Total Borrowing Amount
+
+
+Submit Horizontal
+alignItems center
+backgroundColor #fcbe99
+height 60
+paddingBottom 10
+paddingLeft 10
+paddingRight 10
+paddingTop 10
+onClick <
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Next
+when <isTermsAndConditions
+text Accept
+when <isLoanDetails
+text Submit application
