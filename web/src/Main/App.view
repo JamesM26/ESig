@@ -122,7 +122,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Leave it
-onWhen <isCondition
+onWhen <isResultAvailable
 
 
 Submit Horizontal
