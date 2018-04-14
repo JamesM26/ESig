@@ -19,6 +19,12 @@ text Mortgage Application
 
 
 Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
@@ -48,6 +54,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Label
+
 
 
 BotNav Horizontal
