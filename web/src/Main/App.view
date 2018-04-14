@@ -2,6 +2,12 @@ App Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
+Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
 TopNav Horizontal
 alignItems center
 backgroundColor #fcbe99
@@ -17,6 +23,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Car loan Application
+
 
 
 TopNav Horizontal
