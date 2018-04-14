@@ -48,6 +48,7 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
+onWhen <isCondition
 Text
 color #323232
 fontFamily Montserrat
