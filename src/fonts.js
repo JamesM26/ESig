@@ -1,13 +1,7 @@
 export default {
-// At some point, Views will do this automatically. For now, you
-// need to write your fonts by hand. Here's an example of a font used like:
-// Text
-// fontFamily Robot Mono
-// fontWeight 300
-// text hey I'm using Roboto Mono!
-//
-// Font definition:
-//
-//  'RobotoMono-300': require('./assets/fonts/RobotoMono-300.ttf'),
-//
+  'Montserrat-100': require('../assets/fonts/Montserrat-100.ttf'),
+  'Montserrat-200': require('../assets/fonts/Montserrat-200.ttf'),
+  'Montserrat-300': require('../assets/fonts/Montserrat-300.ttf'),
+  'Montserrat-400': require('../assets/fonts/Montserrat-400.ttf'),
+  'Montserrat-600': require('../assets/fonts/Montserrat-600.ttf'),
 }
