@@ -2,6 +2,22 @@ App Vertical
 flexGrow 1
 flexShrink 1
 flexBasis auto
+TopNav Horizontal
+alignItems center
+backgroundColor #fcbe99
+height 60
+paddingLeft 10
+paddingRight 10
+paddingBottom 10
+paddingTop 10
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Mortgage Application
+
+
 Vertical
 flexBasis auto
 flexGrow 1
@@ -32,22 +48,6 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Label
-
-
-TopNav Horizontal
-alignItems center
-backgroundColor #fcbe99
-height 60
-paddingLeft 10
-paddingRight 10
-paddingBottom 10
-paddingTop 10
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Mortgage Application
 
 
 Vertical
