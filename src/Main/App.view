@@ -1,6 +1,7 @@
 App Vertical
 flexShrink 1
 flexBasis auto
+flexGrow 1
 TopNav Horizontal
 alignItems center
 backgroundColor #fcbe99
