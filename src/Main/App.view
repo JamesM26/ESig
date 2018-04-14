@@ -68,6 +68,7 @@ fontWeight 400
 placeholder Insert text
 onChange <
 value <
+marginLeft 10
 
 
 BotNav Horizontal
