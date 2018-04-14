@@ -40,7 +40,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Please 
+text Please
 
 
 Horizontal
@@ -49,6 +49,9 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 justifyContent center
+Datafield
+text < Total Borrowing Amount
+
 Datafield
 text < Total Borrowing Amount
 
