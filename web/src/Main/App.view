@@ -22,8 +22,7 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Car loan Application
-
+text Stuff Application
 
 
 TopNav Horizontal
@@ -40,7 +39,8 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Stuff Application
+text Car loan Application
+
 
 
 TopNav Horizontal
