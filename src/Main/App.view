@@ -28,6 +28,7 @@ paddingLeft 10
 paddingRight 10
 paddingTop 10
 paddingBottom 10
+onWhen <isCondition
 Text
 color #323232
 fontFamily Montserrat
