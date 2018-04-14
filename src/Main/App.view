@@ -35,6 +35,13 @@ fontSize 18
 fontWeight 400
 text Terms & Conditions
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Text
+
 
 BotNav Horizontal
 alignItems center
