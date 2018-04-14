@@ -1,23 +1,32 @@
 App Vertical
-alignItems center
 flexGrow 1
 flexShrink 1
 flexBasis auto
-justifyContent center
-Text
-fontSize 18
-text < Hello Views Tools!
-
-Horizontal
+TopNav Horizontal
 alignItems center
-flexBasis auto
-flexGrow 1
-flexShrink 1
-justifyContent center
+backgroundColor #fcbe99
+height 60
+paddingLeft 10
+paddingRight 10
+paddingBottom 10
+paddingTop 10
 
 Vertical
-alignItems center
 flexBasis auto
 flexGrow 1
 flexShrink 1
-justifyContent center
+backgroundColor #FCEADE
+overflowY auto
+paddingLeft 10
+paddingRight 10
+paddingTop 10
+paddingBottom 10
+
+BotNav Horizontal
+alignItems center
+backgroundColor #fcbe99
+height 60
+paddingBottom 10
+paddingLeft 10
+paddingRight 10
+paddingTop 10
