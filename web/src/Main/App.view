@@ -61,7 +61,7 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
-onWhen <isResult
+onWhen <isResultAvailable
 Text
 color #323232
 fontFamily Montserrat
