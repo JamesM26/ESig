@@ -122,8 +122,6 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Next
-when <isTermsAndConditions
-text Accept
 
 
 Submit Horizontal
