@@ -59,7 +59,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Loan details
-marginTop 10
+marginTop 1020
 
 Datafield
 label Total Borrowing Amount
