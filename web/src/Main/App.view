@@ -34,7 +34,7 @@ overflowY auto
 paddingLeft 10
 paddingRight 10
 paddingTop 10
-paddingBottom 10
+paddingBottom 50
 onWhen <isTermsAndConditions
 Header
 
