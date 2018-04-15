@@ -7,6 +7,7 @@ onWhen <isHome
 flexGrow 1
 paddingLeft 50
 paddingRight 50
+borderTopLeftRadius 2
 Text
 color #323232
 fontFamily Montserrat
