@@ -33,7 +33,7 @@ flexShrink 1
 overflowY auto
 paddingLeft 50
 paddingRight 50
-paddingTop 10
+paddingTop 50
 paddingBottom 50
 onWhen <isTermsAndConditions
 Header
