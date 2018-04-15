@@ -6,6 +6,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text <label For how long
+width 100
 
 Text
 borderWidth 1
