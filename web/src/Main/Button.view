@@ -13,7 +13,7 @@ borderTopRightRadius 6
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
 when <hover
-backgroundColor #69a6fc
+backgroundColor #68a5fc
 Text
 color #ffffff
 fontFamily Montserrat
