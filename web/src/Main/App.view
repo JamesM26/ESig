@@ -6,6 +6,7 @@ Vertical
 onWhen <isHome
 flexGrow 1
 paddingLeft 50
+paddingRight 10
 Text
 color #323232
 fontFamily Montserrat
