@@ -11,7 +11,7 @@ borderTopLeftRadius 6
 borderTopRightRadius 6
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
-Horizontal
+Header Horizontal
 alignItems baseline
 marginTop 40
 marginBottom 10
