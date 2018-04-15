@@ -97,26 +97,6 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
-onWhen <isApplicationSubmitted
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Type something...
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Pending approval...
-
-
-Vertical
-flexBasis auto
-flexGrow 1
-flexShrink 1
 onWhen <isConfirmation
 Text
 color #323232
@@ -129,7 +109,7 @@ text Your application is accepted
 Horizontal
 onWhen <!isHome
 Submit Horizontal
-backgroundColor #fcbe99
+backgroundColor #99fcca
 height 60
 paddingBottom 10
 paddingLeft 10
