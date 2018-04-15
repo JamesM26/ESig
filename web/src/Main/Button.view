@@ -9,7 +9,7 @@ paddingTop 10
 onClick <
 marginTop 25
 borderTopLeftRadius 6
-borderTopRightRadius 2
+borderTopRightRadius 6
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
 Text
