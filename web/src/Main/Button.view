@@ -18,6 +18,6 @@ backgroundColor #68a5fc
 Text
 color #ffffff
 fontFamily Montserrat
-fontSize 18
+fontSize < 18
 fontWeight 400
 text < Personal Loan
