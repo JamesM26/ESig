@@ -1,7 +1,7 @@
 {
  "App": {
-  "width": 1280,
-  "height": 800,
+  "width": 768,
+  "height": 1024,
   "isLight": false,
   "direction": "row"
  },
