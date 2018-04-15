@@ -20,6 +20,7 @@ fontWeight 400
 text My Applications
 marginTop 40
 marginBottom 10
+flexGrow 1
 
 
 Button
