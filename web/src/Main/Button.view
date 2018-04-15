@@ -1,6 +1,6 @@
 Button Horizontal
 alignItems center
-backgroundColor #99cffc
+backgroundColor #99c1fc
 height 60
 paddingLeft 20
 paddingRight 10
