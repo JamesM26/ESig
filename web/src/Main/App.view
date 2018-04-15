@@ -4,6 +4,7 @@ flexGrow 1
 flexShrink 1
 Vertical
 onWhen <isHome
+flexGrow 1
 Text
 color #323232
 fontFamily Montserrat
@@ -12,57 +13,17 @@ fontWeight 400
 text Applications
 marginTop 50
 
-TopNav Horizontal
-alignItems center
-backgroundColor #fcbe99
-height 60
-paddingLeft 10
-paddingRight 10
-paddingBottom 10
-paddingTop 10
-onClick <
-marginTop 25
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Personal Loan
-
-
-TopNav Horizontal
-alignItems center
-backgroundColor #fcbe99
-height 60
-paddingLeft 10
-paddingRight 10
-paddingBottom 10
-paddingTop 10
-onClick <
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Car loan
-
-
-
-TopNav Horizontal
-alignItems center
-backgroundColor #fcbe99
-height 60
-paddingLeft 10
-paddingRight 10
-paddingBottom 10
-paddingTop 10
-onClick <
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
+Button
 text Mortgage
+onClick <
+
+Button
+text Car Loan
+onClick <
+
+Button
+text Personal Loan
+onClick <
 
 
 Vertical
@@ -90,6 +51,29 @@ fontSize 14
 fontWeight 400
 text This application is owned and maintained by Ulster Bank Ireland DAC ("us", "we" or "Ulster Bank"), which is part of The Royal Bank of Scotland Group ("the RBS Group"). The use of this application is subject to the following terms and conditions that you should read carefully. By using this application you agree to be legally bound by these terms and conditions. If you do not accept these terms and conditions, please use the opt-out option.  Our rates depend on your loan amount and may differ from the rates shown. Available to over 18s and existing Ulster Bank current account customers resident in the Republic of Ireland only. Subject to approval. Lending criteria, terms and conditions apply.
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Loan details
+
+Datafield
+label Total Borrowing Amount
+value €10.000
+
+Datafield
+label Term
+value 5 years
+
+Datafield
+label Total monthly repayment
+value €200
+
+Datafield
+label TermTotal payable
+value €12.000
+
 
 Vertical
 flexBasis auto
@@ -115,41 +99,13 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
-onWhen <isResultAvailable
+onWhen <isConfirmation
 Text
 color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Result is available...
-
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Declined
-when <isAccepted
-text Accepted
-
-
-Vertical
-flexBasis auto
-flexGrow 1
-flexShrink 1
-onWhen <isLoanDetails
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
-text Loan details
-
-Datafield
-text < Total Borrowing Amount
-
-Datafield
-text < Total Borrowing Amount
+text Your application is accepted
 
 
 Horizontal
@@ -172,9 +128,5 @@ fontWeight 400
 text Next
 when <isTermsAndConditions
 text Accept
-when <isLoanDetails
-text Submit application
-when <isApplicationSubmitted
-text Cancel
-when <isResultAvailable
-text Accept
+when <isConfirmation
+text Out out within 48 hours
