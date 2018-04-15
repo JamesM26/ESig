@@ -105,6 +105,8 @@ onClick <
 flexGrow 1
 alignItems center
 justifyContent center
+when <isTermsAndConditions
+backgroundColor #05be19
 Text
 color white
 fontFamily Montserrat
