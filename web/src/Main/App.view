@@ -106,7 +106,7 @@ flexGrow 1
 alignItems center
 justifyContent center
 when <isTermsAndConditions
-backgroundColor #be8a05
+backgroundColor #be7e05
 Text
 color white
 fontFamily Montserrat
