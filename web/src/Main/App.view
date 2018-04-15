@@ -8,7 +8,7 @@ flexGrow 1
 paddingLeft 50
 paddingRight 50
 borderTopLeftRadius 6
-borderTopRightRadius 2
+borderTopRightRadius 6
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
 Text
