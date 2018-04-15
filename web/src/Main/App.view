@@ -169,25 +169,6 @@ color #323232
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
-text Cancel
-onWhen <isResultAvailable
-
-
-Submit Horizontal
-alignItems center
-backgroundColor #fcbe99
-height 60
-paddingBottom 10
-paddingLeft 10
-paddingRight 10
-paddingTop 10
-onClick <
-flexGrow 1
-Text
-color #323232
-fontFamily Montserrat
-fontSize 18
-fontWeight 400
 text Next
 when <isTermsAndConditions
 text Accept
