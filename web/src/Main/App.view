@@ -84,6 +84,7 @@ flexBasis auto
 flexGrow 1
 flexShrink 1
 onWhen <isConfirmation
+alignItems center
 Text
 color #323232
 fontFamily Montserrat
