@@ -43,6 +43,7 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text Terms & Conditions
+marginTop 10
 
 Text
 color #323232
