@@ -7,7 +7,7 @@ color #323232
 fontFamily Montserrat
 fontSize 36
 fontWeight 400
-text My Applications > Personal Loan
+text < My Applications > Personal Loan
 flexGrow 1
 
 Text
