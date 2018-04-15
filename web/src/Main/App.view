@@ -119,7 +119,7 @@ onClick <
 flexGrow 1
 justifyContent center
 Text
-color #323232
+color white
 fontFamily Montserrat
 fontSize 18
 fontWeight 400
