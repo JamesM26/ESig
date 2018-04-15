@@ -1,0 +1,18 @@
+Header Horizontal
+alignItems baseline
+marginTop 40
+marginBottom 10
+Text
+color #323232
+fontFamily Montserrat
+fontSize 36
+fontWeight 400
+text My Applications
+flexGrow 1
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text Joe Summers
