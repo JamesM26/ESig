@@ -13,6 +13,7 @@ borderBottomLeftRadius 6
 borderBottomRightRadius 6
 Horizontal
 alignItems baseline
+marginTop 10
 Text
 color #323232
 fontFamily Montserrat
