@@ -51,6 +51,7 @@ fontFamily Montserrat
 fontSize 14
 fontWeight 400
 text This application is owned and maintained by Ulster Bank Ireland DAC ("us", "we" or "Ulster Bank"), which is part of The Royal Bank of Scotland Group ("the RBS Group"). The use of this application is subject to the following terms and conditions that you should read carefully. By using this application you agree to be legally bound by these terms and conditions. If you do not accept these terms and conditions, please use the opt-out option.  Our rates depend on your loan amount and may differ from the rates shown. Available to over 18s and existing Ulster Bank current account customers resident in the Republic of Ireland only. Subject to approval. Lending criteria, terms and conditions apply.
+marginTop 10
 
 Text
 color #323232
