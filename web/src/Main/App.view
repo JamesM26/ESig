@@ -106,7 +106,7 @@ flexGrow 1
 alignItems center
 justifyContent center
 when <isConfirmation
-backgroundColor #be7e05
+backgroundColor #e99a06
 Text
 color white
 fontFamily Montserrat
