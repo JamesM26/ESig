@@ -1,0 +1,17 @@
+Button Horizontal
+alignItems center
+backgroundColor #fcbe99
+height 60
+paddingLeft 10
+paddingRight 10
+paddingBottom 10
+paddingTop 10
+onClick <
+marginTop 25
+borderTopLeftRadius 2
+Text
+color #323232
+fontFamily Montserrat
+fontSize 18
+fontWeight 400
+text < Personal Loan
