@@ -11,6 +11,12 @@ borderTopLeftRadius 6
 borderTopRightRadius 6
 borderBottomLeftRadius 6
 borderBottomRightRadius 6
+Vertical
+alignItems center
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
 Text
 color #323232
 fontFamily Montserrat
@@ -19,6 +25,7 @@ fontWeight 400
 text My Applications
 marginTop 40
 marginBottom 10
+
 
 Button
 text Mortgage
