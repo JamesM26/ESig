@@ -1,5 +1,6 @@
 Datafield Horizontal
 marginTop 10
+alignItems center
 Text
 color #323232
 fontFamily Montserrat
