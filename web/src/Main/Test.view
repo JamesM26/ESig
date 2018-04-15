@@ -5,4 +5,4 @@ flexGrow 1
 flexShrink 1
 justifyContent center
 Button
-fontSize 18
+fontSize 10
