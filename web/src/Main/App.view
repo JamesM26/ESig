@@ -89,7 +89,7 @@ justifyContent center
 Text
 color #323232
 fontFamily Montserrat
-fontSize 18
+fontSize 36
 fontWeight 400
 text Your application is accepted
 
