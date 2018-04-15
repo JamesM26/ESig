@@ -99,6 +99,7 @@ fontFamily Montserrat
 fontSize 36
 fontWeight 400
 text Your funds are available now
+marginTop 10
 
 
 Horizontal
