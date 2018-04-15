@@ -6,7 +6,6 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text <label For how long
-paddingRight 30
 
 Text
 borderWidth 1
