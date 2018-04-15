@@ -7,7 +7,7 @@ onWhen <isHome
 flexGrow 1
 paddingLeft 50
 paddingRight 50
-borderTopLeftRadius 2
+borderTopLeftRadius 6
 borderTopRightRadius 2
 borderBottomLeftRadius 2
 borderBottomRightRadius 2
