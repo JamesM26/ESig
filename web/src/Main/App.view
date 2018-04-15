@@ -118,6 +118,7 @@ paddingTop 10
 onClick <
 flexGrow 1
 alignItems center
+justifyContent center
 Text
 color white
 fontFamily Montserrat
