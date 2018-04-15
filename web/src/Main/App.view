@@ -18,6 +18,7 @@ fontSize 36
 fontWeight 400
 text Applications
 marginTop 50
+marginBottom 10
 
 Button
 text Mortgage
