@@ -109,7 +109,7 @@ text Your application is accepted
 Horizontal
 onWhen <!isHome
 Submit Horizontal
-backgroundColor #05d41c
+backgroundColor #05d01b
 height 60
 paddingBottom 10
 paddingLeft 10
