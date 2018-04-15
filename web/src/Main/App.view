@@ -93,6 +93,13 @@ fontSize 36
 fontWeight 400
 text Your application is accepted
 
+Text
+color #323232
+fontFamily Montserrat
+fontSize 36
+fontWeight 400
+text Your funds are available now
+
 
 Horizontal
 onWhen <!isHome
