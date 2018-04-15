@@ -18,7 +18,6 @@ fontFamily Montserrat
 fontSize 36
 fontWeight 400
 text My Applications
-marginBottom 10
 flexGrow 1
 
 Text
