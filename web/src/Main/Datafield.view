@@ -17,3 +17,4 @@ fontFamily Montserrat
 fontSize 18
 fontWeight 400
 text <value Value
+paddingBottom 10
