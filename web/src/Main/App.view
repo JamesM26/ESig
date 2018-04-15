@@ -94,7 +94,7 @@ text Your application is accepted
 
 Horizontal
 onWhen <!isHome
-Submit Horizontal
+Cancel Horizontal
 backgroundColor #05be19
 height 60
 paddingBottom 10
