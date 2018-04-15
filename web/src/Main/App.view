@@ -48,7 +48,6 @@ Vertical
 flexBasis auto
 flexGrow 1
 flexShrink 1
-backgroundColor #FCEADE
 overflowY auto
 paddingLeft 10
 paddingRight 10
